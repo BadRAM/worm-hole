@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SLUG",
+				"SLUG_TAIL"
+			],
+			[
+				"wget_",
+				"wget_type"
+			],
+			[
+				"slu",
+				"SLUG_EGGS"
+			],
+			[
+				"wg",
+				"wget_obj"
+			],
+			[
+				"wse",
+				"wset"
+			],
+			[
+				"be",
+				"best_dir"
+			],
+			[
+				"SLU",
+				"SLUG_BABY"
+			],
+			[
+				"OBJ",
+				"OBJECT_TYPE_BITMASK"
+			],
+			[
+				"OBJEC",
+				"OBJECT_TYPE_BITMASK"
+			],
+			[
+				"SL",
+				"SLUG_BABY"
+			],
+			[
+				"Wse",
+				"wset_obj"
+			],
+			[
+				"ws",
+				"wset_floor"
+			],
+			[
+				"wset_fl",
+				"wset_floor"
+			],
+			[
+				"wge_",
+				"wget_obj"
+			],
+			[
+				"wo",
+				"world_new"
+			],
+			[
+				"WORM_H",
+				"WORM_HEAD_RIGHT"
+			],
+			[
+				"std",
+				"stdlib.h"
+			],
+			[
+				"wge",
+				"wget_floor"
+			],
+			[
+				"flo",
+				"FLOWER"
+			],
+			[
+				"SLUG_H",
+				"SLUG_HEAD_DOWN"
+			],
+			[
+				"FL",
+				"FLOWER"
+			],
+			[
+				"ti",
+				"tile_empty"
+			],
+			[
+				"Wor",
+				"WORM_TAIL_FAT"
+			],
+			[
+				"Wo",
+				"WORM_TAIL_FAT"
+			],
+			[
+				"emp",
+				"tile_empty"
+			],
+			[
+				"fl",
+				"FLOOR_TILE_BITMASK"
+			],
+			[
+				"di",
+				"dirs"
+			],
+			[
+				"fo",
+				"for\tFor Loop"
+			],
+			[
+				"slug",
+				"SLUG_EGGS"
+			],
+			[
+				"wor",
+				"WORM_TAIL_FAT"
+			],
+			[
+				"fa",
+				"WORM_TAIL_FAT"
+			],
+			[
+				"pre",
+				"prev2"
+			],
+			[
+				"BITMA",
+				"OBJECT_CATEGORY_BITMASK"
+			],
+			[
+				"W",
+				"WEEDS"
+			],
+			[
+				"sto",
+				"BARE_STONE"
+			],
+			[
+				"no",
+				"NOFLOOR_FLAG"
+			],
+			[
+				"flag",
+				"NOFLOOR_FLAG"
+			],
+			[
+				"bi",
+				"FLOOR_TILE_BITMASK"
+			],
+			[
+				"ch",
+				"char_to_dir"
+			],
+			[
+				"u",
+				"UP"
+			],
+			[
+				"worm_he",
+				"WORM_HEAD_DOWN"
+			],
+			[
+				"wormt",
+				"WORM_TAIL_FAT"
+			],
+			[
+				"worl",
+				"world"
+			],
+			[
+				"ta",
+				"TAIL_DOWN"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "readme.txt",
+			"settings":
+			{
+				"buffer_size": 260,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "WormHole.md",
+			"settings":
+			{
+				"buffer_size": 4153,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 11899,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "main.h",
+			"settings":
+			{
+				"buffer_size": 2033,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "snake.c",
+			"settings":
+			{
+				"buffer_size": 17663,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "world.h",
+			"settings":
+			{
+				"buffer_size": 877,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "worm.c",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "worm.h",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"table",
+				"Table Editor: Enable for current syntax"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"browse ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"rot",
+				"Rot13 Selection"
+			],
+			[
+				"",
+				"Rot13 Selection"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 235.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Luke/Workspace/Homebrew/GBA/WormHole/world.c",
+		"/C/Users/Luke/Workspace/Homebrew/GBA/WormHole/main.c",
+		"/C/Users/dgame/Documents/GBA-Romhack/WormHole/world.h",
+		"/C/Users/dgame/Documents/GBA-Romhack/WormHole/world.c",
+		"/C/Users/dgame/Documents/GBA-Romhack/WormHole/main.h",
+		"/C/Users/dgame/Documents/GBA-Romhack/WormHole/main.c",
+		"/C/Users/dgame/Documents/GBA-Romhack/WormHole/readme.txt",
+		"/C/Users/dgame/Documents/GBA-Romhack/WormHole/makesnake.bat",
+		"/C/Users/dgame/Documents/GBA-Romhack/WormHole/WormHole.md",
+		"/C/Users/dgame/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/dgame/Documents/GBA-Romhack/WormHole/snake.c",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa3240.16650/X-Com_Files_readme.txt",
+		"/C/Users/dgame/Documents/Games/OpenXcomEx-7.9.8/UFO/README.txt",
+		"/C/Users/dgame/Documents/Games/Fightcade/ROMs/README.txt",
+		"/C/Users/dgame/Documents/GBA-Romhack/WormHole/worm.c",
+		"/C/Users/dgame/Documents/GBA-Romhack/WormHole/worm.h",
+		"/C/Users/dgame/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+		"/C/Users/dgame/AppData/Roaming/Sublime Text 3/Installed Packages/All Autocomplete.sublime-package",
+		"/C/Users/dgame/Documents/witch spell list.txt",
+		"/C/Users/dgame/RiderProjects/Chess-Challenge/backups.txt",
+		"/C/Users/dgame/Documents/Career/WorkBC Funding app/Dinesh Interview.txt",
+		"/C/Users/dgame/Documents/Career/WorkBC Funding app/Jeremy Interview.txt",
+		"/C/Users/dgame/Documents/Career/WorkBC Funding app/Alex Interview.txt",
+		"/C/Users/dgame/Documents/Career/WorkBC Funding app/Siming Interview",
+		"/C/Users/dgame/Documents/AWBW ranks.txt",
+		"/C/Users/dgame/RiderProjects/moth/notes.md",
+		"/C/Users/dgame/RiderProjects/moth/FirstSecretTest.md",
+		"/C/Users/dgame/Documents/Operators.txt",
+		"/C/Users/dgame/Documents/lights end todo.txt",
+		"/D/Downloads/The GNU C Reference Manual.htm",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa19880.26353/readme.txt",
+		"/C/Users/dgame/Documents/GBA-Romhack/libtonc-template/source/main.c",
+		"/C/Users/dgame/Documents/GBA-Romhack/gbt-player-4.4.1/gba/examples/basic_mod/source/gbt_player",
+		"/C/Users/dgame/Documents/GBA-Romhack/gbt-player-4.4.1/gba/examples/basic_mod/source/main.c",
+		"/C/Users/dgame/Documents/GBA-Romhack/gbt-player-4.4.1/gba/examples/basic_mod/make_rom.sh",
+		"/C/Users/dgame/Documents/GBA-Romhack/Curses/main.c",
+		"/C/Users/dgame/Documents/GBA-Romhack/snake.c",
+		"/C/Users/dgame/Documents/GBA-Romhack/WormHole.md",
+		"/D/Downloads/buzzard.hint",
+		"/D/Downloads/buzzard.c",
+		"/D/Downloads/sloane.c",
+		"/D/Downloads/prog.c",
+		"/C/Users/dgame/Documents/GBA-Romhack/libtonc-template/Makefile",
+		"/C/Users/dgame/Documents/GBA-Romhack/libtonc-template/graphics/metr.grit",
+		"/C/Users/dgame/Documents/GBA Romhack/Hello World/main.c",
+		"/C/Users/dgame/Documents/GBA Romhack/Hello World/make.bat",
+		"/C/Users/dgame/RiderProjects/Chess-Challenge/fishy rank log.txt",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa448.41879/XPiratez_readme.txt",
+		"/C/Users/dgame/RiderProjects/HackerRank/HackerRank/Program.cs",
+		"/C/Users/dgame/RiderProjects/HackerRank/HackerRank/RankedHacks.cs",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa14212.24377/README-CHANGELOG.txt",
+		"/C/Users/dgame/Documents/Games/Robot Arena 2 v1.4/ReadMe.txt",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa12192.47965/ReadMe.txt",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa12192.45478/Armor_Definitions.txt",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa12192.44302/CHANGE YOUR WEIGHTCLASS.txt",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa12192.36811/ironforge info.txt",
+		"/C/Program Files/OpenXcom Extended/user/mods/Dioxine_XPiratez/UFO/README.txt",
+		"/C/Users/dgame/Documents/AllDice_200-1000.json",
+		"/C/Users/dgame/Documents/AllDice/AllDice_b00-b3f.json",
+		"/C/Users/dgame/Documents/AllDice_0-30.json",
+		"/C/Users/dgame/Documents/AllDice.py",
+		"/C/Users/dgame/Documents/scratch.py",
+		"/C/Users/dgame/RiderProjects/moth/notes.txt",
+		"/C/Users/dgame/Documents/KiCad/PuzzleBox/LEDRingBoard/LEDRingBoard.kicad_pro",
+		"/C/Users/dgame/Documents/BadRAM.github.io/style.css",
+		"/C/Users/dgame/Documents/Career/PortfolioLink.txt",
+		"/C/Users/dgame/Documents/BadRAM.github.io/index.html",
+		"/D/Downloads/sfZed09/readme.txt",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa16376.37556/readme.txt",
+		"/C/Users/dgame/Documents/VLC logs/log.txt",
+		"/C/Users/dgame/Documents/Career/Portfolio.txt",
+		"/C/Users/dgame/Documents/Godot Projects/gravitator/default_env.tres",
+		"/C/Users/dgame/Documents/Games/openxcom/UFO/README.txt",
+		"/E/Nitrotracker/Examples/sassaby_percussion/_readme_and_license.txt",
+		"/C/Users/dgame/Documents/modlist.txt",
+		"/C/Users/dgame/RiderProjects/Battlebot-Manager/Battlebot-Manager/Content/TournamentSeries.json",
+		"/D/Downloads/sagfgasgdsgadsg.txt",
+		"/D/Downloads/KNOPPIX_V9.1DVD-2021-01-25-EN/knoppix-cheatcodes.txt",
+		"/C/Users/dgame/Documents/Games/PolyMC/portable.txt",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa5776.13287/CampaignFleetAPI.java",
+		"/C/Program Files (x86)/Fractal Softworks/Starsector/mods/MagicLib/src/data/scripts/bounty/MagicBountyBarEvent.java",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa5776.49390/BattleCreationPlugin.java",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa5776.39393/EngagementResultForFleetAPI.java",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa5776.23176/BattleAPI.java",
+		"/C/Program Files (x86)/Fractal Softworks/Starsector/vmparams",
+		"/C/Program Files (x86)/Fractal Softworks/Starsector/mods/GladiatorSociety/src/data/scripts/world/GladiatorSociety_ModPlugin.java",
+		"/C/Program Files (x86)/Fractal Softworks/Starsector/mods/GladiatorSociety/src/data/scripts/campaign/GladiatorSociety_Content.java",
+		"/C/Users/dgame/Documents/Games/Not Tetris/Not Readme.txt",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa5776.8001/CombatDamageData.java",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa5776.37950/FleetAssignment.java",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa5776.17211/CampaignEventManagerAPI.java",
+		"/D/Downloads/6666 in 1[ROM PACK] RETRO_LEGENDS [NES-SNES-NeoGeo-GBA-Mame-Sega Genesis-SMS-Atari-N64-TurboGrafX-ZX Spectrum]/read_me.txt",
+		"/D/Downloads/Star.Trek.Picard.S02E10.1080p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt",
+		"/C/Users/dgame/Documents/Games/QuattroCraft/instances/QuattroCraft/minecraft/config/CustomMainMenu/mainmenu.json",
+		"/C/Users/dgame/Documents/KiCad/GCUSB/GCUSB/panel.json",
+		"/C/Users/dgame/Documents/KiCad/GCUSB/GCUSB/panel - Copy.json",
+		"/C/Users/dgame/Desktop/vmparams",
+		"/C/Users/dgame/Documents/Games/OpenXcomEx/UFO/README.txt",
+		"/C/Users/dgame/Documents/Games/OpenXcomEx/TFTD/README.txt",
+		"/C/Users/dgame/Documents/Unity Projects/hammo-2/Assets/Scripts/Player/FPSWalk.cs",
+		"/C/Users/dgame/Desktop/kkflash/REVESC.txt",
+		"/C/Users/dgame/Documents/Printing/Models/DiscipadCase/USBaspLoader-atmega328p/Schematics.txt",
+		"/C/Users/dgame/Desktop/Firefox Dark/userChrome.css",
+		"/C/Users/dgame/Documents/Unity Projects/hammo/Assets/BRAM_FPS/FPSWalkMK3.cs",
+		"/C/Users/dgame/Documents/Unity Projects/outleague/Assets/Scripts/Environment/StartGate.cs",
+		"/C/Users/dgame/Documents/Unity Projects/outleague/Assets/Scripts/Environment/Goal.cs",
+		"/C/Users/dgame/Documents/Unity Projects/hammo/Assets/Scripts/PlayerWeapon.cs",
+		"/C/Users/dgame/Documents/PlatformIO/Projects/USB4GC/license.txt",
+		"/C/Users/dgame/Documents/Arduino/hardware/badram/sam/boards.txt",
+		"/C/Users/dgame/.platformio/boards/usb4gc.json",
+		"/D/Downloads/Naruto Kai/Readme.txt",
+		"/E/INFO_UF2.TXT",
+		"/C/Users/dgame/AppData/Local/Temp/gitignore",
+		"/C/Users/dgame/Documents/PlatformIO/Projects/USB4GC/lib/USB_Host_Library_SAMD-master/gpl2.txt",
+		"/C/Users/dgame/Documents/Arduino/hardware/badram/sam/variants/USB4GC_V4/variant.h",
+		"/C/Users/dgame/Documents/Arduino/hardware/badram/sam/variants/arduino_zero/variant.cpp",
+		"/C/Users/dgame/Documents/Arduino/hardware/badram/sam/variants/USB4GC_V4/variant.cpp",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa17620.24960/scene.org.txt",
+		"/C/Users/dgame/Documents/Arduino/hardware/badram/sam/platform.txt",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa18200.34835/UPDATE.TXT",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa12048.17349/readme.txt",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa7152.27489/README.TXT",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa1804.48083/readme.txt",
+		"/C/Users/dgame/Desktop/SoA/Worlds/Aldrin/Trees/Leaves.txt",
+		"/C/Users/dgame/Desktop/SoA/README.txt",
+		"/C/Users/dgame/Documents/Arduino/hardware/badram/sam/keywords.txt",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa34072.47551/hpl_gclk_config.h",
+		"/C/Users/dgame/AppData/Local/Temp/Rar$DIa34072.45535/atmel_start.h"
+	],
+	"find":
+	{
+		"height": 27.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"^",
+			"0xD0",
+			"world",
+			"bool"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "WormHole.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 972.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "main.c",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1416,
+								1416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "main.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "snake.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "world.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "worm.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "worm.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.3333333333
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.391666666667,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 289.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 126.400001526
+	},
+	"pinned_build_system": "",
+	"project": "Wormhole.sublime-project",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

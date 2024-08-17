@@ -1,0 +1,1 @@
+gcc -o worm main.c world.c -lncurses -DNCURSES_STATIC -I/ucrt64/include/ncurses
